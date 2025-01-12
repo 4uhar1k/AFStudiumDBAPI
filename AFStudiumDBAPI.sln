@@ -15,6 +15,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{5377DC94-E5C6-44A5-B83A-D25B57B91ACD}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AFStudiumApp", "AFStudiumApp\AFStudiumApp\AFStudiumApp.csproj", "{DA81B382-A461-4BE2-B948-86086B9244D2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AD09EE05-27D7-4351-8953-7954934E269C} = {AD09EE05-27D7-4351-8953-7954934E269C}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
