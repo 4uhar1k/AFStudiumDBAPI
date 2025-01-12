@@ -1,0 +1,8 @@
+
+
+@AFStudiumDBAPI_HostAddress = http://0.0.0.0:5214
+
+GET {{AFStudiumDBAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

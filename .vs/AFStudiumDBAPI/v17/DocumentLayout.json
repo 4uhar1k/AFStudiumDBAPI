@@ -1,0 +1,844 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\modulespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\modulespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\aboutmodulpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\addeventpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\aboutmodulpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\viewmodels\\modulesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumapiclient\\models\\apimodels\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|solutionrelative:afstudiumapiclient\\models\\apimodels\\connections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\domains\\entitites\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\domains\\entitites\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\eventspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\eventspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\listofstudentspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumapiclient\\afstudiumapiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|solutionrelative:afstudiumapiclient\\afstudiumapiclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\listofstudentspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\timetablepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\addeventpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\timetablepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\listofgradespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\listofgradespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumapiclient\\models\\apimodels\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|solutionrelative:afstudiumapiclient\\models\\apimodels\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\viewmodels\\messagesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\messagespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\messagespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\sqliteconnectionbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumapiclient\\ioc\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|solutionrelative:afstudiumapiclient\\ioc\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumapiclient\\models\\apiclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD09EE05-27D7-4351-8953-7954934E269C}|AFStudiumAPIClient\\AFStudiumAPIClient.csproj|solutionrelative:afstudiumapiclient\\models\\apiclientoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\addmodulpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\addmodulpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumdbapi\\afstudiumdbapi\\afstudiumdbapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{012A88F5-8D45-465A-B253-167D5167C8D2}|AFStudiumDBAPI\\AFStudiumDBAPI.csproj|solutionrelative:afstudiumdbapi\\afstudiumdbapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9DCDE97-985C-4C9B-ABC3-E31392612E64}|..\\AFStudiumApp\\AFStudiumApp\\AFStudiumApp.csproj|c:\\users\\legion\\desktop\\projects\\afstudiumapp\\afstudiumapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\projects\\TestAPI\\TestAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Legion\\Desktop\\projects\\TestAPI\\TestAPI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T23:34:44.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModulesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T14:34:40.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Domains\\Entitites\\Event.cs",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\Domains\\Entitites\\Event.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Domains\\Entitites\\Event.cs",
+              "RelativeToolTip": "AFStudiumDBAPI\\Domains\\Entitites\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:05:43.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Connections.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\Models\\ApiModels\\Connections.cs",
+              "RelativeDocumentMoniker": "AFStudiumAPIClient\\Models\\ApiModels\\Connections.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\Models\\ApiModels\\Connections.cs",
+              "RelativeToolTip": "AFStudiumAPIClient\\Models\\ApiModels\\Connections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:31:15.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddEventPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:55:17.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutModulPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T23:14:49.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AboutModulPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AboutModulPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:19:00.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModulesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ModulesPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:32:19.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AFStudiumAPIClientService.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\AFStudiumAPIClientService.cs",
+              "RelativeDocumentMoniker": "AFStudiumAPIClient\\AFStudiumAPIClientService.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\AFStudiumAPIClientService.cs",
+              "RelativeToolTip": "AFStudiumAPIClient\\AFStudiumAPIClientService.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAAwMcAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T22:01:01.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModulesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ModulesViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ModulesViewModel.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ModulesViewModel.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ModulesViewModel.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAAwOUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:22:48.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListOfStudentsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T01:49:19.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EventsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\EventsPage.xaml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-21T21:45:56.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListOfStudentsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfStudentsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-26T01:49:10.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAD4vzwAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:15:17.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:27:55.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TimeTablePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-07T10:19:15.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddEventPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddEventPage.xaml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T22:55:13.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TimeTablePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\TimeTablePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:19:20.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ProfilePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T14:28:40.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MainPage.xaml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAABgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T20:52:19.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ListOfGradesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-03T20:48:11.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ListOfGradesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\ListOfGradesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T20:48:17.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "AFStudiumDBAPI\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:30:47.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\EventController.cs",
+              "RelativeToolTip": "AFStudiumDBAPI\\Controllers\\EventController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T21:37:03.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\Models\\ApiModels\\Event.cs",
+              "RelativeDocumentMoniker": "AFStudiumAPIClient\\Models\\ApiModels\\Event.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\Models\\ApiModels\\Event.cs",
+              "RelativeToolTip": "AFStudiumAPIClient\\Models\\ApiModels\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T08:05:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T23:02:14.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MessagesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\ViewModels\\MessagesViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\ViewModels\\MessagesViewModel.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\ViewModels\\MessagesViewModel.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\ViewModels\\MessagesViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T18:05:52.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\AppShell.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T17:30:27.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MessagesPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T17:57:22.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MessagesPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\MessagesPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-28T17:57:04.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\MauiProgram.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T01:22:12.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Program.cs",
+              "RelativeToolTip": "AFStudiumDBAPI\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAhwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:22:40.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\appsettings.json",
+              "RelativeToolTip": "AFStudiumDBAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T16:39:59.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SqliteConnectionBase.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\SqliteConnectionBase.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\SqliteConnectionBase.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\SqliteConnectionBase.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\SqliteConnectionBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:23:24.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:23:40.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AFStudiumDBAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T16:40:13.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApiClientOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\Models\\ApiClientOptions.cs",
+              "RelativeDocumentMoniker": "AFStudiumAPIClient\\Models\\ApiClientOptions.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\Models\\ApiClientOptions.cs",
+              "RelativeToolTip": "AFStudiumAPIClient\\Models\\ApiClientOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:46:36.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\IoC\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "AFStudiumAPIClient\\IoC\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumAPIClient\\IoC\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "AFStudiumAPIClient\\IoC\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T17:10:22.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "AFStudiumDBAPI\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:33:40.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AFStudiumDBAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T00:42:23.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T20:02:34.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AddModulPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T15:30:22.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddModulPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\AddModulPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:30:27.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\App.xaml.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:13:48.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Views\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-17T15:14:58.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T21:20:59.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\appsettings.Development.json",
+              "RelativeToolTip": "AFStudiumDBAPI\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T17:04:59.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AFStudiumDBAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\AFStudiumDBAPI.csproj",
+              "RelativeDocumentMoniker": "AFStudiumDBAPI\\AFStudiumDBAPI.csproj",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumDBAPI\\AFStudiumDBAPI\\AFStudiumDBAPI.csproj",
+              "RelativeToolTip": "AFStudiumDBAPI\\AFStudiumDBAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T16:05:33.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\App.xaml",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\App.xaml",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\App.xaml",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-02T17:30:29.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "..\\AFStudiumApp\\AFStudiumApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\AFStudiumApp\\AFStudiumApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "..\\AFStudiumApp\\AFStudiumApp\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAWwEoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T15:17:48.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\TestAPI\\TestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\TestAPI\\TestAPI\\Program.cs",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T15:34:48.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\projects\\TestAPI\\TestAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TestAPI\\TestAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\projects\\TestAPI\\TestAPI\\appsettings.json",
+              "RelativeToolTip": "..\\TestAPI\\TestAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T15:34:51.877Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

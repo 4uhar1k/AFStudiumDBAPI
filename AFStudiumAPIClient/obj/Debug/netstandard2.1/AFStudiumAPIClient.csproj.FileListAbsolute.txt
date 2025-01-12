@@ -1,0 +1,10 @@
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\bin\Debug\netstandard2.1\AFStudiumAPIClient.deps.json
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\bin\Debug\netstandard2.1\AFStudiumAPIClient.dll
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\bin\Debug\netstandard2.1\AFStudiumAPIClient.pdb
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.AssemblyInfo.cs
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.dll
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.pdb
