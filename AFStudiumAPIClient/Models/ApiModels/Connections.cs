@@ -9,7 +9,7 @@ namespace AFStudiumAPIClient.Models.ApiModels
         public int Id { get; set; }
         public int StudentId { get; set; }
         public int EventId { get; set; }
-        public bool IsCreatorOrHelper { get; set; }
+        public int Status { get; set; }
 
     }
 }

@@ -5,7 +5,7 @@
         public int Id { get; init; }
         public int StudentId { get; init; }
         public int EventId { get; init; }
-        public bool IsCreatorOrHelper { get; init; }
+        public int Status { get; init; }
 
     }
 }
