@@ -15,6 +15,7 @@ namespace AFStudiumDBAPI.Data
         public DbSet<Event> Eventstable { get; set; }
         public DbSet<Connections> ConnectionsTable { get; set; }
         public DbSet<Message> Messagestable { get; set; }
+        public DbSet<Grades> GradesTable { get; set; }
     }
     
 }

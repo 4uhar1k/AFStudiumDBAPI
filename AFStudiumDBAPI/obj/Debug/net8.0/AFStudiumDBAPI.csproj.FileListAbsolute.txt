@@ -129,6 +129,7 @@ C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\AFStudiumDBAPI.csproj.CoreCompileInputs.cache
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\AFStudiumDBAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\AFStudiumDBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\AFStudiumDBAPI.sourcelink.json
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\staticwebassets\msbuild.AFStudiumDBAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -143,4 +144,3 @@ C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\AFStudiumDBAPI.pdb
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\AFStudiumDBAPI.genruntimeconfig.cache
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\ref\AFStudiumDBAPI.dll
-C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumDBAPI\obj\Debug\net8.0\AFStudiumDBAPI.sourcelink.json

@@ -212,11 +212,67 @@ namespace AFStudiumAPIClient
                 await _httpClient.DeleteAsync($"/api/Connections/{studentsEvents.Id}");
             }
         }
+        
+        ///  <summary>
+        /// for grades
+        /// </summary>
+        /// <returns></returns>
+    public async Task<List<Grades>?> GetGrades()
+    {
+        return await _httpClient.GetFromJsonAsync<List<Grades>?>($"/api/Grades");
+    }
+    public async Task<List<Event>?> GetGradesByUserId(int StudentId)
+    {
+        var list = await _httpClient.GetFromJsonAsync<List<Grades>?>($"/api/Grades/bystudentid/{StudentId}");
+        List<Event> events = new List<Event>();
+        if (list != null)
+        {
 
-        /// for messages
-        /// 
+            foreach (Grades e in list)
+            {
+                events.Add(await GetEventById(e.EventId));
+            }
+        }
+        return events;
 
-        public async Task<IEnumerable<Message>?> GetMessages()
+    }
+    public async Task<List<Grades>?> GetGradesByEventId(int EventId)
+    {
+        var list = await _httpClient.GetFromJsonAsync<List<Grades>?>($"/api/Grades/byeventid/{EventId}");
+        List<Grades> grades = new List<Grades>();
+        if (list != null)
+        {
+
+            foreach (Grades e in list)
+            {
+                    grades.Add(e);
+            }
+        }
+        return grades;
+
+    }
+
+    public async Task PostGrades(int userid, int eventid, string grade)
+    {
+            Grades grades = new Grades() { StudentId = userid, EventId = eventid, Grade = grade };
+        await _httpClient.PostAsJsonAsync("/api/Grades", grades);
+    }
+    public async Task PutGrade(Grades se)
+    {
+        await _httpClient.PutAsJsonAsync("/api/Grades", se);
+    }
+    public async Task DeleteGrade(int userid, int eventid)
+    {
+            Grades? grades = await _httpClient.GetFromJsonAsync<Grades?>($"/api/Grades/{userid},{eventid}");
+        if (grades != null)
+        {
+            await _httpClient.DeleteAsync($"/api/Grades/{grades.Id}");
+        }
+    }
+    /// for messages
+    /// 
+
+    public async Task<IEnumerable<Message>?> GetMessages()
         {
             return await _httpClient.GetFromJsonAsync<List<Message>?>("/api/Message");
         }

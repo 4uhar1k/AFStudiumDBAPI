@@ -297,6 +297,157 @@
     ]
   },
   {
+    "ContainingType": "AFStudiumDBAPI.Controllers.GradesController",
+    "Method": "GetGrades",
+    "RelativePath": "api/Grades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AFStudiumDBAPI.Domains.Entitites.Grades, AFStudiumDBAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AFStudiumDBAPI.Controllers.GradesController",
+    "Method": "AddGrade",
+    "RelativePath": "api/Grades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "grade",
+        "Type": "AFStudiumDBAPI.Domains.Entitites.Grades",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AFStudiumDBAPI.Controllers.GradesController",
+    "Method": "UpdateGrade",
+    "RelativePath": "api/Grades",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "grade",
+        "Type": "AFStudiumDBAPI.Domains.Entitites.Grades",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AFStudiumDBAPI.Controllers.GradesController",
+    "Method": "DeleteGrade",
+    "RelativePath": "api/Grades/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AFStudiumDBAPI.Controllers.GradesController",
+    "Method": "GetUniqueGrade",
+    "RelativePath": "api/Grades/{StudentId},{EventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StudentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "EventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AFStudiumDBAPI.Domains.Entitites.Grades",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AFStudiumDBAPI.Controllers.GradesController",
+    "Method": "GetGradesByEventId",
+    "RelativePath": "api/Grades/byeventid/{EventId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EventId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AFStudiumDBAPI.Domains.Entitites.Grades, AFStudiumDBAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AFStudiumDBAPI.Controllers.GradesController",
+    "Method": "GetGradesByStudentId",
+    "RelativePath": "api/Grades/bystudentid/{StudentId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "StudentId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AFStudiumDBAPI.Domains.Entitites.Grades, AFStudiumDBAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "AFStudiumDBAPI.Controllers.MessageController",
     "Method": "GetMessages",
     "RelativePath": "api/Message",

@@ -6,5 +6,6 @@ C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\net
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.AssemblyInfoInputs.cache
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.AssemblyInfo.cs
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.sourcelink.json
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.dll
 C:\Users\Legion\Desktop\projects\AFStudiumDBAPI\AFStudiumAPIClient\obj\Debug\netstandard2.1\AFStudiumAPIClient.pdb

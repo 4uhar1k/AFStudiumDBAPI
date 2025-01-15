@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AFStudiumDBAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f0c35fec59ade388ae174cdf1351db98eef070a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2db654fe0432a62c959231d93d637bc497903c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AFStudiumDBAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AFStudiumDBAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
