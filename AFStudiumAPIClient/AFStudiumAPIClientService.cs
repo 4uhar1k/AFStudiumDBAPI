@@ -195,9 +195,9 @@ namespace AFStudiumAPIClient
 
         }
 
-        public async Task PostConnection(int userid, int eventid, bool iscreatororhelper)
+        public async Task PostConnection(int userid, int eventid, int status)
         {
-            Connections studentsEvents = new Connections() { StudentId = userid, EventId = eventid, IsCreatorOrHelper = iscreatororhelper };
+            Connections studentsEvents = new Connections() { StudentId = userid, EventId = eventid, Status = status };
             await _httpClient.PostAsJsonAsync("/api/Connections", studentsEvents);
         }
         public async Task PutConnection(Connections se)
